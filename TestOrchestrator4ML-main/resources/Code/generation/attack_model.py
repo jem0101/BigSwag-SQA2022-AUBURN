@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
-import operator 
+import operator
+import LogHelper
+import logging
 from operator import itemgetter
 from sklearn.datasets import load_digits
 from sklearn.model_selection import train_test_split
@@ -23,6 +25,13 @@ def calculate_k(X_train, X_test, y_train, y_test):
     accuracies = []
     for k in kVals:
         model = KNeighborsClassifier(n_neighbors = k)
+
+#       Creates a log to check the creation of a model for model tricking.
+#       Outputs a log message with the logname, log level, filename, affected method, and model data.
+#       Gives information on model data to see if a model is being attacked.
+        logger = LogHelper.getSQALogger()
+        logger.debug('{} - {} - {}'.format('attack_model.py', 'calculate_k()', model))
+
         model.fit(X_train, y_train)
         pred = model.predict(X_test)
         acc = accuracy_score(y_test, pred)
@@ -38,6 +47,13 @@ def keras_model():
     model.add(Dense(12, activation='relu'))
     model.add(Dense(1, activation='sigmoid'))
     model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+#   Creates a log to check the creation of a model for model tricking.
+#   Outputs a log message with the logname, log level, filename, affected method, and model data.
+#   Gives information on model data to see if a model is being attacked.
+    logger = LogHelper.getSQALogger()
+    logger.debug('{} - {} - {}'.format('attack_model.py', 'keras_model()', model))
+
     return model
     
     
@@ -47,6 +63,13 @@ def prepare_data():
 #     X = mnist.data 
 #     y = mnist.target
     se_data = pd.read_csv('data//IST_MIR.csv') 
+
+#   Creates a log to check the loading of IST_MIR data for poisoning attacks.
+#   Outputs a log message with the logname, log level, filename, affected method, and IST_MIR data.
+#   Gives information on data input so that no erroneus data is loaded.
+    logger = LogHelper.getSQALogger()
+    logger.debug('{} - {} - {}'.format('attack_model.py', 'prepare_data()', se_data))
+
     print(se_data.shape)
     X = se_data.iloc[:, 2:14]
     y = se_data['defect_status']
@@ -79,6 +102,13 @@ def perform_inference(X_train, X_test, y_train, y_test, model_name):
     else:
         print("else")
         model = DecisionTreeClassifier()
+
+#   Creates a log to check the creation of a model for model tricking.
+#   Outputs a log message with the logname, log level, filename, affected method, and model data.
+#   Gives information on model data to see if a model is being attacked.
+    logger = LogHelper.getSQALogger()
+    logger.debug('{} - {} - {}'.format('attack_model.py', 'perform_inference()', model))
+
     model.fit(X_train, y_train)
     pred = model.predict(X_test)
     pred = np.round(abs(pred))

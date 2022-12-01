@@ -1,0 +1,11 @@
+name: Fuzzing Workflow
+on: [workflow_dispatch]
+jobs:
+  example:
+    name: Fuzz Methods
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3.0.2
+      - uses: actions/setup-python@v4.2.0
+      - run: python fuzz.py
+        shell: bash

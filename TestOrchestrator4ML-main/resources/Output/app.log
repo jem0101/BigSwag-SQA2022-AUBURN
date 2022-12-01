@@ -1,0 +1,1582 @@
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - LinearSVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - LinearSVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - LinearSVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - LinearSVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - SVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - SVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - SVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - SVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff973cbc5b0>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff973cbc5b0>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff9701db490>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff9701db490>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff973c57730>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff973c57730>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff91c78c610>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff91c78c610>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff973d50ee0>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff973d50ee0>
+tensorflow - WARNING - 5 out of the last 9 calls to <function Model.make_predict_function.<locals>.predict_function at 0x7ff91c57f9d0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff973c50040>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff973c50040>
+tensorflow - WARNING - 6 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x7ff91c438310> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff91c413190>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff91c413190>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff91c3fa7f0>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff91c3fa7f0>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff91c2974c0>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff91c2974c0>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fdfd83d0>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fdfd83d0>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fce6c580>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fce6c580>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff9607e4340>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff9607e4340>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff9606fde20>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff9606fde20>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fce4d5b0>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fce4d5b0>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff9606cd640>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff9606cd640>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fc7c1430>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fc7c1430>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=3)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier()
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - calculate_k() - KNeighborsClassifier(n_neighbors=9)
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - KNeighborsClassifier(n_neighbors=7)
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - SVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - SVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - SVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - SVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - LinearSVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - LinearSVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - LinearSVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - LinearSVC()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff9701dbbe0>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff9701dbbe0>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff91c598d30>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff91c598d30>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fd628f70>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fd628f70>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fd70ff70>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fd70ff70>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff96012fe80>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff96012fe80>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff9700bb730>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff9700bb730>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff9606b7580>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff9606b7580>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fdfa4b20>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fdfa4b20>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff973d50d00>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff973d50d00>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fd70eb50>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fd70eb50>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff91c05ee80>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff91c05ee80>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff9700bb910>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff9700bb910>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fcf47e50>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fcf47e50>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff8fce542e0>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff8fce542e0>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff91c41b610>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff91c41b610>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - keras_model() - <keras.engine.sequential.Sequential object at 0x7ff91c4b3970>
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - <keras.engine.sequential.Sequential object at 0x7ff91c4b3970>
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()
+SQA-Logger - DEBUG - attack_model.py - prepare_data() -           org                                              file_  URL  File  ...  Command  File_mode  SSH_KEY  defect_status
+0    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+1    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    1     1  ...        1          1        1              1
+2    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     2  ...        2          1        1              1
+3    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/fue...    0     0  ...        0          0        0              1
+4    MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     2  ...        4          1        1              0
+..        ...                                                ...  ...   ...  ...      ...        ...      ...            ...
+175  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+176  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     0  ...        0          0        0              0
+177  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+178  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              0
+179  MIRANTIS  /Users/akond/PUPP_REPOS/mirantis-downloads/pup...    0     1  ...        0          1        1              1
+
+[180 rows x 15 columns]
+SQA-Logger - DEBUG - attack_model.py - perform_inference() - DecisionTreeClassifier()

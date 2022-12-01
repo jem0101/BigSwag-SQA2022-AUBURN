@@ -1,0 +1,602 @@
+ML_SCRIPT,TEST_NAME,PARAMETER
+../../Data/supervised/GITLAB_REPOS/mmmickmason2@incubator-mxnet/tools/coreml/test/test_mxnet_converter.py,_test_mxnet_model,"('len(mxnet_preds)', 'len(coreml_preds)')"
+../../Data/supervised/GITLAB_REPOS/mmmickmason2@incubator-mxnet/tools/coreml/test/test_mxnet_converter.py,test_tiny_synset_random_input,"('prediction',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/tasks/convai_chitchat/TeacherTest.py,test_data_generator,"('correct_items',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/tasks/test_wizard_of_wikipedia.py,run_display_test,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_self_feeding.py,test_dataset_integrity,"('test_output',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_self_feeding.py,test_released_model,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_convai2.py,test_seq2seq_hits1,"('report', 'str(stdout)')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_convai2.py,test_seq2seq_f1,"('report', 'str(stdout)')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_convai2.py,test_kvmemnn_hits1,"('report', 'str(stdout)')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_convai2.py,test_kvmemnn_f1,"('report',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_convai2.py,test_languagemodel_f1,"('report', 'str(stdout)')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_transresnet.py,test_transresnet,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_drqa.py,test_pretrained,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_transresnet_multimodal.py,test_transresnet,"(<_ast.Name object at 0x7faac688d5b0>,)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_wizard.py,test_end2end,"('valid',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_wizard.py,test_retrieval,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_bert.py,test_biencoder,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_bert.py,test_crossencoder,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_controllable.py,test_dataset_integrity,"('valid_output',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/nightly/gpu/test_controllable.py,test_convai2_finetuned_greedy,"('valid',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/datatests/test_new_tasks.py,test_verify_data,"('found_errors',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_fairseq.py,test_labelcands,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_fairseq.py,test_generation,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_seq2seq.py,test_ranking,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_seq2seq.py,test_generation,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_seq2seq.py,test_beamsearch,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_seq2seq.py,test_badinput,"('stdout',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_seq2seq.py,test_generation_multi,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_seq2seq.py,test_backwards_compatibility,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_eval_model.py,test_output,"('len(str_output)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_eval_model.py,test_metrics_all,"('len(str_output)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_eval_model.py,test_metrics_select,"('len(str_output)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_eval_model.py,test_multitasking_metrics,"('total_acc',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_transformers.py,test_repeater,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_transformers.py,test_backcomp,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_transformers.py,test_xlm,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_transformers.py,test_alt_reduction,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_transformers.py,test_greedysearch,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_transformers.py,test_beamsearch,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_transformers.py,test_generator_backcomp,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_transformers.py,test_badinput,"('stdout',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_transformers.py,test_xlm,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_ta_inheritence.py,test_subclassA,"('opt',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_ta_inheritence.py,test_subclassB,"('opt',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_docs.py,test_docs_build,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_mock,"('isinstance(MockDict)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_share,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test__vectorize_text,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test__check_truncate,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_vectorize,"('vecs',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_batchify,"('len(obs_cands)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_match_batch,"(<_ast.Name object at 0x7faab37f3670>,)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test__add_person_tokens,"('out',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_history,"('text',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_last_reply,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_observe,"('out',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_interactive_mode,"('response',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_torch_agent.py,test_mturk_racehistory,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_distributed.py,test_generator_distributed,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_utils.py,test_opt,"(<_ast.Name object at 0x7faac4072490>,)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_train_model.py,test_fast_final_eval,"('test',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_train_model.py,test_multitasking_metrics,"('total_acc',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_tra.py,test_train_inline,"('valid', 'threshold')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_tra.py,test_train_batch,"('valid', 'threshold')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_tra.py,test_train_fixed,"('valid', 'threshold')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_tra.py,test_train_batch_all,"('valid', 'threshold')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_tra.py,test_eval_inline,"('valid', 'threshold')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_tra.py,test_eval_batch,"('valid', 'threshold')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_tra.py,test_eval_fixed,"('valid',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_tra.py,test_eval_vocab,"('valid',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_build_data.py,test_download_multiprocess,"('output_statuses',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_build_data.py,test_download_multiprocess_chunks,"('output_statuses',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_pytorch_data_teacher.py,_pyt_train,"('solved_task(test)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_pytorch_data_teacher.py,test_pyt_preprocess_train,"('solved_task(test)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_pytorch_data_teacher.py,_pyt_batchsort_train,"('solved_task(test)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_pytorch_data_teacher.py,test_pytd_teacher,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_pytorch_data_teacher.py,run_display_test,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_zootasks.py,_assertZooString,"('container',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_dict.py,test_space_tokenize,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_dict.py,test_split_tokenize,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_memnn.py,test_labelcands_nomemnn,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_memnn.py,test_labelcands_multi,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/tests/test_display_data.py,test_output,"('str_output',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_db_interactions.py,assertHITEqual,"('run_id', 'db_hit')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_db_interactions.py,test_init_db,"(<_ast.Subscript object at 0x7faac42a98b0>,)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_db_interactions.py,test_create_get_run,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_db_interactions.py,test_create_update_hits,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_db_interactions.py,test_worker_workflows,"('pair_3',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_full_system.py,test_successful_convo,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_full_system.py,test_disconnect_end,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_full_system.py,test_expire_onboarding,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_full_system.py,test_reconnect_complete,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_full_system.py,test_attempt_break_unique,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_full_system.py,test_break_multi_convo,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_agent.py,test_assign_state_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_agent.py,test_message_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_agent.py,test_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_agent.py,test_state_wrappers,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_agent.py,test_connection_id,"('connection_id',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_agent.py,test_status_change,"('has_changed',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_agent.py,test_message_queue,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_agent.py,test_message_acts,"('returned_act',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_init_state,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_move_to_waiting,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_socket_setup,"('SocketManager',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_mturk_messages,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_new_message,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_agents_incomplete,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_world_types,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_turk_timeout,"('TEST_WORKER_ID_1', 'TEST_ASSIGNMENT_ID_1')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_wait_for_task_expirations,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_mark_workers_done,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_pool_add_get_remove_and_expire,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_create_work_time_file,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_add_to_work_time_file_and_block,"('worker_list',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_full_lifecycle,"('topic_arn',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_socket_dead,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_send_message_command,"(<_ast.Subscript object at 0x7faac42b5f40>,)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_free_workers,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_force_expire_hit,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_get_qualifications,"('qualifications',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_create_additional_hits,"('hit_url',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_expire_all_hits,"('len(expire_calls)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_qualification_management,"('result', 'success_id')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_partner_disconnect,"('data',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_restore_state,"('data',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_mturk_manager.py,test_expire_onboarding,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,test_worker_state_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,test_worker_state_agent_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,test_manager_alive_makes_state,"('test_worker',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,test_private_create_agent,"('TEST_ASSIGNMENT_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,test_agent_task_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,check_is_worker_1,"('TEST_WORKER_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,test_shutdown,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,test_time_blocks,"('TEST_WORKER_ID_2',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,test_conversation_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,fake_command_send,"('pkt',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_worker_manager.py,partner_callback,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_packet_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_dict_conversion,"('packet_dict',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_connection_ids,"('receiver_conn_id',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_packet_conversions,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_packet_modifications,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_init_and_reg_shutdown,"('nop_called',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_init_world_dead,"('server_death_called',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_init_state,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_needed_heartbeat,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_ack_send,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_blocking_ack_packet_send,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_non_blocking_ack_packet_send,"('used_packet_dict',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_non_ack_packet_send,"('used_packet_dict',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_simple_packet_channel_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_safe_put,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_alive_send_and_disconnect,"('hb_count',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_failed_ack_resend,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/legacy_2018/test/test_socket_manager.py,test_one_agent_disconnect_other_alive,"('TEST_ASSIGNMENT_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_db_interactions.py,assertHITEqual,"('run_id', 'db_hit')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_db_interactions.py,test_init_db,"(<_ast.Subscript object at 0x7faac65774c0>,)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_db_interactions.py,test_create_get_run,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_db_interactions.py,test_create_update_hits,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_db_interactions.py,test_worker_workflows,"('pair_3',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_full_system.py,test_successful_convo,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_full_system.py,test_disconnect_end,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_full_system.py,test_expire_onboarding,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_full_system.py,test_reconnect_complete,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_full_system.py,test_attempt_break_unique,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_full_system.py,test_break_multi_convo,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_agent.py,test_assign_state_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_agent.py,test_message_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_agent.py,test_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_agent.py,test_state_wrappers,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_agent.py,test_connection_id,"('connection_id',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_agent.py,test_status_change,"('has_changed',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_agent.py,test_message_queue,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_agent.py,test_message_acts,"('returned_act',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_init_state,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_move_to_waiting,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_socket_setup,"('SocketManager',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_mturk_messages,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_new_message,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_agents_incomplete,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_world_types,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_turk_timeout,"('TEST_WORKER_ID_1', 'TEST_ASSIGNMENT_ID_1')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_wait_for_task_expirations,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_mark_workers_done,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_pool_add_get_remove_and_expire,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_create_work_time_file,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_add_to_work_time_file_and_block,"('worker_list',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_full_lifecycle,"('topic_arn',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_socket_dead,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_send_message_command,"(<_ast.Subscript object at 0x7faac64066d0>,)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_free_workers,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_force_expire_hit,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_get_qualifications,"('qualifications',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_create_additional_hits,"('hit_url',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_expire_all_hits,"('len(expire_calls)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_qualification_management,"('result', 'success_id')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_partner_disconnect,"('data',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_restore_state,"('data',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_mturk_manager.py,test_expire_onboarding,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,test_worker_state_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,test_worker_state_agent_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,test_manager_alive_makes_state,"('test_worker',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,test_private_create_agent,"('TEST_ASSIGNMENT_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,test_agent_task_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,check_is_worker_1,"('TEST_WORKER_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,test_shutdown,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,test_time_blocks,"('TEST_WORKER_ID_2',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,test_conversation_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,fake_command_send,"('pkt',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_worker_manager.py,partner_callback,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_packet_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_dict_conversion,"('packet_dict',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_connection_ids,"('receiver_conn_id',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_packet_conversions,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_packet_modifications,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_init_and_reg_shutdown,"('nop_called',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_init_world_dead,"('server_death_called',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_init_state,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_needed_heartbeat,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_ack_send,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_blocking_ack_packet_send,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_non_blocking_ack_packet_send,"('used_packet_dict',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_non_ack_packet_send,"('used_packet_dict',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_simple_packet_channel_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_safe_put,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_alive_send_and_disconnect,"('hb_count',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_failed_ack_resend,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/test/test_socket_manager.py,test_one_agent_disconnect_other_alive,"('TEST_ASSIGNMENT_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_db_interactions.py,assertHITEqual,"('run_id', 'db_hit')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_db_interactions.py,test_init_db,"(<_ast.Subscript object at 0x7faab35adf40>,)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_db_interactions.py,test_create_get_run,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_db_interactions.py,test_create_update_hits,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_db_interactions.py,test_worker_workflows,"('pair_3',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_full_system.py,test_expire_onboarding,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_full_system.py,test_attempt_break_unique,"('agent_1_2_object',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_full_system.py,test_no_onboard_expire_waiting,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_agent.py,test_assign_state_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_agent.py,test_message_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_agent.py,test_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_agent.py,test_state_wrappers,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_agent.py,test_connection_id,"('connection_id',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_agent.py,test_status_change,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_agent.py,test_message_queue,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_agent.py,test_message_acts,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_init_state,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_move_to_waiting,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_socket_setup,"('SocketManager',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_mturk_messages,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_new_message,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_onboarding_function,"('did_launch',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_agents_incomplete,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_world_types,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_turk_timeout,"('TEST_WORKER_ID_1', 'TEST_ASSIGNMENT_ID_1')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_wait_for_task_expirations,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_mark_workers_done,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_pool_add_get_remove_and_expire,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_create_work_time_file,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_add_to_work_time_file_and_block,"('worker_list',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_full_lifecycle,"('topic_arn',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_socket_dead,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_send_message_command,"(<_ast.Subscript object at 0x7faac63f7c70>,)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_free_workers,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_force_expire_hit,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_get_qualifications,"('qualifications',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_create_additional_hits,"('hit_url',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_expire_all_hits,"('len(expire_calls)',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_qualification_management,"('result', 'success_id')"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_partner_disconnect,"('assignment_id',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_mturk_manager.py,test_expire_onboarding,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,test_worker_state_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,test_worker_state_agent_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,test_manager_alive_makes_state,"('test_worker',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,test_private_create_agent,"('TEST_ASSIGNMENT_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,test_agent_task_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,check_is_worker_1,"('TEST_WORKER_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,test_shutdown,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,test_time_blocks,"('TEST_WORKER_ID_2',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,test_conversation_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,fake_command_send,"('pkt',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_worker_manager.py,partner_callback,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_packet_init,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_dict_conversion,"('packet_dict',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_connection_ids,"('receiver_conn_id',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_packet_conversions,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_packet_modifications,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_init_and_reg_shutdown,"('nop_called',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_init_world_dead,"('server_death_called',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_init_state,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_packet_send,"('used_packet_dict',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_simple_packet_channel_management,()
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_alive_send_and_disconnect,"('TEST_ASSIGNMENT_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/flapedriza@neural_chat/ParlAI/parlai/mturk/core/dev/test/test_socket_manager.py,test_one_agent_disconnect_other_alive,"('TEST_ASSIGNMENT_ID_1',)"
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@spark-deep-learning/python/tests/horovod/runner_base_test.py,test_func_signature,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@spark-deep-learning/python/tests/horovod/runner_base_test.py,test_run,"('data',)"
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@spark-deep-learning/python/tests/horovod/runner_base_test.py,test_return_value,"('return_value',)"
+../../Data/supervised/GITLAB_REPOS/afzalhmd14@tflearn/tests/test_objectives.py,test_weak_cross_entropy_2d,"('res',)"
+../../Data/supervised/GITLAB_REPOS/afzalhmd14@tflearn/tests/test.py,test_linear,"('f(x)', 'x')"
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_default_hdfs_service_typical,"('namenodes',)"
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_connect_to_either_namenode_ok,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_connect_to_either_with_user,"('mock_name',)"
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_connect_to_either_namenode_ok_one_failed,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_connect_to_either_namenode_exception_two_failed,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_connect_to_either_namenode_exception_four_failed,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_unhandled_exception,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_invalid_namenode_list,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_client_pickles_correctly,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,_try_failover_combos,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/tests/test_fs_utils.py,test_hdfs_url_direct_namenode_retries,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/tests/test_cache.py,test_null_cache,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/tests/test_metadata_read.py,test_no_common_metadata_crc,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/tests/test_run_in_subprocess.py,test_run_in_subprocess,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/workers_pool/tests/test_workers_pool.py,test_dummy_pool_should_process_tasks_in_fifo_order,"('actual_output',)"
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/petastorm/workers_pool/tests/test_workers_pool.py,test_exception_reusing_thread_pool,()
+../../Data/supervised/GITLAB_REPOS/chaitanya_kaul@petastorm/examples/imagenet/tests/test_generate_imagenet_dataset.py,test_get_labels,"('a',)"
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_default_hdfs_service_typical,"('namenodes',)"
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,_test_default_hdfs_service,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_connect_to_either_namenode_ok,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_connect_to_either_namenode_ok_one_failed,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_connect_to_either_namenode_exception_two_failed,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_connect_to_either_namenode_exception_four_failed,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_unhandled_exception,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_invalid_namenode_list,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,test_client_pickles_correctly,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/hdfs/tests/test_hdfs_namenode.py,_try_failover_combos,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_fs_utils.py,test_file_url,"('ABS_PATH',)"
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_fs_utils.py,test_hdfs_url_with_nameservice,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_fs_utils.py,test_hdfs_url_no_nameservice,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_fs_utils.py,test_hdfs_url_direct_namenode,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_fs_utils.py,test_hdfs_url_direct_namenode_retries,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_fs_utils.py,test_s3_url,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_cache.py,test_null_cache,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_metadata_read.py,test_no_common_metadata_crc,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_fields,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_as_spark_schema,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_dict_to_spark_row_field_validation_scalar_types,"('isinstance(Row)',)"
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_dict_to_spark_row_field_validation_scalar_nullable,"('isinstance(Row)',)"
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_dict_to_spark_row_field_validation_ndarrays,"('isinstance(Row)',)"
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_insert_explicit_nulls,"('row_dict',)"
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_create_schema_view_fails_validate,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_name_property,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_equality,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_unischema.py,test_hash,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/tests/test_run_in_subprocess.py,test_run_in_subprocess,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/workers_pool/tests/test_workers_pool.py,test_dummy_pool_should_process_tasks_in_fifo_order,"('actual_output',)"
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/petastorm/workers_pool/tests/test_workers_pool.py,test_exception_reusing_thread_pool,()
+../../Data/supervised/GITLAB_REPOS/Spence@petastorm/examples/imagenet/tests/test_generate_imagenet_dataset.py,test_get_labels,"('a',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/io_tests/test_formatting.py,test_array_repr,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/io_tests/test_formatting.py,test_array_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/io_tests/test_npz.py,test_save_load,"('a', 'b')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/io_tests/test_npz.py,check_savez,"('a2', 'b2')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/io_tests/test_npz.py,test_pickle,"('a', 'b')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/io_tests/test_npz.py,test_dump,"('a', 'b')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/manipulation_tests/test_dims.py,test_broadcast,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/creation_tests/test_basic.py,test_empty_zero_sized_array_strides,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/creation_tests/test_from_data.py,test_ascontiguousarray_on_noncontiguous_array,"('b', 'c')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/creation_tests/test_from_data.py,test_ascontiguousarray_on_contiguous_array,"('a', 'b')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/cuda_tests/test_memory.py,test_int,"('pval', 'int(memptr)')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/cuda_tests/test_memory.py,test_add,"('int(memptr)',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/cuda_tests/test_memory.py,test_sub,"('pval', 'int(memptr)')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/cuda_tests/test_memory.py,test_copy_to_and_from_host,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/cuda_tests/test_memory.py,test_copy_from_device,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/cuda_tests/test_memory.py,test_alloc,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/cuda_tests/test_memory.py,test_free,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/cuda_tests/test_memory.py,test_free_different_size,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/cuda_tests/test_memory.py,test_free_all_free,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/math_tests/test_floating.py,test_frexp,"('cupy_c', 'numpy_c')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/math_tests/test_sumprod.py,test_sum_axis2_float16,"('sa',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/cupy_tests/test_ndarray_contiguity.py,test_is_contiguous,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,success_case,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_all_trials_fail,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_all_trials_fail2,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_all_trials_succeed,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_all_trials_succeed2,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_half_of_trials_succeed,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_half_of_trials_succeed2,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_failure_case,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_success_case,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_probabilistic_case,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_failure_case,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_success_case,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/testing_tests/test_condition.py,test_probabilistic_case,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_walker_alias.py,check_sample,"('counts',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_utils.py,test_scalar,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_utils.py,test_0dim_array,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_utils.py,test_array,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_utils.py,test_force_type_scalar,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_utils.py,test_force_type_array,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_utils.py,test_force_type_array_no_change,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_priority,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_empty,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_simple,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_evaluate_size,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval_list_items,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_list_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval_tuple_items,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_tuple_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_eval_nest_list,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_type_check.py,test_nest_list_str,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_conv.py,check_conv_outsize,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_conv.py,check_conv_outsize_cover_all,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_conv.py,check_im2col,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/utils_tests/test_conv.py,check_col2im,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_inception.py,check_call,"('expected',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_reshape.py,check_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_reshape.py,check_backward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_softmax_cross_entropy.py,check_forward,"('loss_expect', 'loss_value')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_softmax_cross_entropy.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_prelu.py,check_forward,"('y_expect',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_prelu.py,check_backward,"('gW',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_copy.py,test_check_forward_cpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_copy.py,test_check_backward_cpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_accuracy.py,check_forward,"('expected',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_negative_sampling.py,check_backward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_negative_sampling.py,test_forward_gpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_negative_sampling.py,test_to_cpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_basic_math.py,_test_constant_one,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_basic_math.py,_test_constant_array_one,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_basic_math.py,_test_constant_array_gpu_one,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_basic_math.py,check_forward,"('op(value)',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_basic_math.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_basic_math.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_split_axis.py,check_backward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_split_axis.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_nonparameterized_convolution_2d.py,test_forward_consistency,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_nonparameterized_convolution_2d.py,check_backward,"('gb',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_hierarchical_softmax.py,test_simple,"('expect', 'tree')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_hierarchical_softmax.py,test_same_count,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_hierarchical_softmax.py,check_sum,"('float(total)',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_hierarchical_softmax.py,test_forward,"('cpu_loss',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_hierarchical_softmax.py,check_backward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_hierarchical_softmax.py,test_to_cpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_convolution_2d.py,test_im2col_consistency,"('col_cpu',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_convolution_2d.py,test_col2im_consistency,"('im_cpu',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_convolution_2d.py,test_forward_consistency,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_convolution_2d.py,check_backward,"('gb',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_convolution_2d.py,check_pickling,"('y_data1', 'y_data2')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_embed_id.py,check_forward,"('y_expect',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_embed_id.py,check_backward,"('gW',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_nonparameterized_linear.py,check_forward,"('y_expect',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_nonparameterized_linear.py,check_backward,"('gb',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_lstm.py,check_forward,"('h_expect',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_lstm.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_cross_covariance.py,check_forward,"('loss_expect', 'loss_value')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_cross_covariance.py,check_backward,"('gz',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_cross_covariance.py,check_type,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_relu.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_leaky_relu.py,check_forward,"('expected',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_leaky_relu.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_local_response_normalization.py,check_forward,"('y_expect', 'y_data')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_local_response_normalization.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_matmul.py,check_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_matmul.py,check_backward,"('gx2',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_vae.py,check_gaussian_kl_divergence,"('actual',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_vae.py,check_bernoulli_nll,"('actual',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_vae.py,check_gaussian_nll,"('actual',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_sigmoid_cross_entropy.py,check_forward,"('loss_expect', 'loss_value')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_sigmoid_cross_entropy.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_sum.py,check_forward,"('y_expect',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_sum.py,check_backward,"('gx_expect',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_mean_squared_error.py,check_forward,"('loss_expect', 'loss_value')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_mean_squared_error.py,check_backward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_linear.py,check_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_linear.py,check_backward,"('gb',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_softmax.py,check_forward,"('y_expect',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_softmax.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_clipped_relu.py,check_forward,"('y_expect',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_clipped_relu.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_sigmoid.py,test_forward_gpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_sigmoid.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_parameter.py,check_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_parameter.py,check_volatile,"('volatile',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_softplus.py,check_forward,"('y_exp',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_softplus.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_pooling_2d.py,check_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_pooling_2d.py,check_backward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_pooling_2d.py,check_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_pooling_2d.py,check_backward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_pooling_2d.py,check_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_pooling_2d.py,check_forward_ones,"('y_data',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_pooling_2d.py,check_backward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_tanh.py,test_forward_gpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_tanh.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_gaussian.py,check_backward,"('gv',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_batch_normalization.py,check_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/functions_tests/test_batch_normalization.py,check_backward,"('gbeta',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_backward,"('gx2',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_check_type_forward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_call,"('tuple',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_call_volatile,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_call_single_return_value,"('ret',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_unchain,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_parameters_getter,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_gradients_getter,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_label,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_to_gpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_to_cpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_parameters_getter,"('len(ps)',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_parameters_setter,"('p2', 'q2')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_gradients_getter,"('len(gs)',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_gradients_setter,"('g2', 'h2')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,test_backward,"(<_ast.Subscript object at 0x7faab37f3100>,)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_init,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_add_branch,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_backward,"('gx',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function.py,check_backward_one,"('g1', 'gx')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,test_sqnorm_cpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,test_sqnorm_scalar_cpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,test_sqnorm_gpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,test_sqnorm_scalar_gpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,check_weight_decay,"('expect', 'w')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,check_init_state,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,check_update,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,check_accumulate_grads,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,check_compute_grads_norm,"('norm',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,check_weight_decay,"('g', 'expect')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_optimizer.py,check_clip_grads,"('sqnorm',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_gradient_check.py,check_numerical_grad_one,"('len(dx_expect)', 'len(dx_actual)')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_gradient_check.py,check_identical,"('x', 'x')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_gradient_check.py,check_atol,"('x', 'y')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_gradient_check.py,check_rtol,"('x', 'y')"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_computational_graph.py,test_edges,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_computational_graph.py,test_nodes,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_computational_graph.py,test_edges_remove_split,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_computational_graph.py,test_nodes_remove_split,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_computational_graph.py,test_edges,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_computational_graph.py,test_nodes,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_computational_graph.py,test_edges_remove_split,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_computational_graph.py,test_nodes_remove_split,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_variable.py,check_len,"('len(x)',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_variable.py,check_label,"('expected',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_variable.py,check_backward,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_variable.py,check_set_creator,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function_set.py,test_get_sorted_funcs,"('self',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function_set.py,test_collect_parameters,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function_set.py,test_pickle_cpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function_set.py,test_pickle_gpu,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function_set.py,test_get_sorted_funcs,"('self',)"
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function_set.py,check_equal_fs,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function_set.py,check_copy_parameters_from,()
+../../Data/supervised/GITLAB_REPOS/jamieoglindsey0@chainer/tests/chainer_tests/test_function_set.py,test_getitem,"(<_ast.Subscript object at 0x7faac63c7280>,)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_build_err_msg_defaults,"('a', 'b')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_build_err_msg_no_verbose,"('a', 'b')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_build_err_msg_custom_names,"('a', 'b')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_build_err_msg_custom_precision,"('a', 'b')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_closeness,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_simple,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_nan,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_inf,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_subclass,"('b', 'b')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_subclass_that_cannot_be_bool,"('a', 'a')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_closeness,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_nan_item,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_inf_item,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_subclass_that_cannot_be_bool,"('a', 'a')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_simple_arrays,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_simple_items,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_nan_array,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_nan_items,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_simple_arrays,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_rank2,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_rank3,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_simple_items,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_nan_noncompare,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_nan_noncompare_array,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_inf_compare,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_inf_compare_array,"('x',)"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_simple,"('AssertionError', 'assert_allclose')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_report_fail_percentage,()
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_not_equal_nan,"('AssertionError', 'assert_allclose', 'a', 'b')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_float64_fail,"('AssertionError', 'assert_array_almost_equal_nulp', 'x', 'y', 'nulp')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_float32_fail,"('AssertionError', 'assert_array_almost_equal_nulp', 'x', 'y', 'nulp')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_complex128_fail,"('AssertionError', 'assert_array_almost_equal_nulp', 'xi', 'nulp')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_complex64_fail,"('AssertionError', 'assert_array_almost_equal_nulp', 'xi', 'nulp')"
+../../Data/supervised/GITLAB_REPOS/Spence@mxnet-lambda/src/numpy/testing/tests/test_utils.py,test_simple,"('AssertionError',)"
+../../Data/supervised/GITLAB_REPOS/mynameisfiber@keras/tests/keras/layers/test_core.py,test_sequences,()
+../../Data/supervised/GITLAB_REPOS/mynameisfiber@keras/tests/keras/layers/test_core.py,test_non_zero,()
+../../Data/supervised/GITLAB_REPOS/mynameisfiber@keras/tests/keras/layers/test_core.py,test_non_zero_output,()
+../../Data/supervised/GITLAB_REPOS/mynameisfiber@keras/tests/keras/test_normalization.py,test_setup,"('Exception',)"
+../../Data/supervised/GITLAB_REPOS/mynameisfiber@keras/tests/keras/test_normalization.py,test_mode_0,()
+../../Data/supervised/GITLAB_REPOS/mynameisfiber@keras/tests/keras/test_normalization.py,test_config,"('conf', 'conf_target')"

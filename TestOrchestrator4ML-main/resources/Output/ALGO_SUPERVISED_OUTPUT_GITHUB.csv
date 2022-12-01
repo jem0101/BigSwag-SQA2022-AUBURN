@@ -1,0 +1,6 @@
+PROJECT,ALGO_NAME
+../../../Data/supervised/GITHUB_REPOS//biolab@orange3,"['KNeighborsClassifier', 'DecisionTreeClassifier']"
+../../../Data/supervised/GITHUB_REPOS//ntucllab@libact,"['LinearSVC', 'SVC', 'KNeighborsClassifier']"
+../../../Data/supervised/GITHUB_REPOS//EderSantana@seya,"['SimpleRNN', 'Bidirectional']"
+../../../Data/supervised/GITHUB_REPOS//deepchem@deepchem,['Dense']
+../../../Data/supervised/GITHUB_REPOS//,"['DecisionTreeClassifier', 'SimpleRNN', 'KNeighborsClassifier', 'SVC', 'LinearSVC', 'Dense', 'Bidirectional']"

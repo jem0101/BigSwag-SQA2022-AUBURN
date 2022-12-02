@@ -13,12 +13,14 @@ def checkAlgoNamesFuzz():
 		f = open("blns.json", "r")
 		filedata = json.load(f)
 		for i in filedata:
-			print("FUZZ: Running on method checkAlgoNames() with parameter \"{}\"".format(i))
-			checkAlgoNames(i)
+			#print("FUZZ: Running on method checkAlgoNames() with parameter \"{}\"".format(i))
+			py_parser.checkAlgoNames(i)
+			#print("FUZZ: checkAlgoNames() with parameter \"{}\" PASSED".format(i))
 	except Exception as exc:
-		print("	FUZZ: checkAlgoNames FAILED")
-	else:
-		print("FUZZ: checkAlgoNames PASSED" )
+		print("FUZZ: checkAlgoNames() with parameter \"{}\" FAILED".format(i))
+		traceback.print_exc()
+		print("*"*150)
+		print("")
 
 
 
@@ -27,26 +29,28 @@ def checkForLibraryImportFuzz():
 		f = open("blns.json", "r")
 		filedata = json.load(f)
 		for i in filedata:
-			print("FUZZ: Running on method checkAlgoNames() with parameter \"{}\"".format(i))
-			checkForLibraryImport(i)
+			#print("FUZZ: Running on method checkForLibraryImport() with parameter \"{}\"".format(i))
+			py_parser.checkForLibraryImport(i)
+			#print("FUZZ: checkForLibraryImport() with parameter \"{}\" PASSED".format(i))
 	except Exception as exc:
-		print("	FUZZ: checkForLibraryImport FAILED")
-	else:
-		print("FUZZ: checkForLibraryImport PASSED" )
-
+		print("FUZZ: checkForLibraryImport() with parameter \"{}\" FAILED".format(i))
+		traceback.print_exc()
+		print("*"*150)
+		print("")
 
 def getImportFuzz():
 	try:
 		f = open("blns.json", "r")
 		filedata = json.load(f)
 		for i in filedata:
-			print("FUZZ: Running on method getImport() with parameter \"{}\"".format(i))
-			getImport(i)
+			#print("FUZZ: Running on method getImport() with parameter \"{}\"".format(i))
+			py_parser.getImport(i)
+			#print("FUZZ: getImport() with parameter \"{}\" PASSED".format(i))
 	except Exception as exc:
-		print("	FUZZ: getImport FAILED")
-	else:
-		print("FUZZ: getImport PASSED" )
-
+		print("FUZZ: getImport() with parameter \"{}\" FAILED".format(i))
+		traceback.print_exc()
+		print("*"*150)
+		print("")
 
 
 def getFunctionDetailsForClaasesFuzz():
@@ -54,13 +58,14 @@ def getFunctionDetailsForClaasesFuzz():
 		f = open("blns.json", "r")
 		filedata = json.load(f)
 		for i in filedata:
-			print("FUZZ: Running on method getFunctionDetailsForClaases() with parameter \"{}\"".format(i))
-			getFunctionDetailsForClaases(i)
+			#print("FUZZ: Running on method getFunctionDetailsForClaases() with parameter \"{}\"".format(i))
+			py_parser.getFunctionDetailsForClaases(i)
+			#print("FUZZ: getFunctionDetailsForClaases() with parameter \"{}\" PASSED".format(i))
 	except Exception as exc:
-		print("	FUZZ: getFunctionDetailsForClaases FAILED")
-	else:
-		print("FUZZ: getFunctionDetailsForClaases PASSED" )
-
+		print("FUZZ: getFunctionDetailsForClaases() with parameter \"{}\" FAILED".format(i))
+		traceback.print_exc()
+		print("*"*150)
+		print("")
 
 
 def getClassificationAlgoNamesFuzz():
@@ -68,13 +73,14 @@ def getClassificationAlgoNamesFuzz():
 		f = open("blns.json", "r")
 		filedata = json.load(f)
 		for i in filedata:
-			print("FUZZ: Running on method getClassificationAlgoNames() with parameter \"{}\"".format(i))
-			getClassificationAlgoNames(i)
+			#print("FUZZ: Running on method getClassificationAlgoNames() with parameter \"{}\"".format(i))
+			py_parser.getClassificationAlgoNames(i)
+			#print("FUZZ: getClassificationAlgoNames() with parameter \"{}\" PASSED".format(i))
 	except Exception as exc:
-		print("	FUZZ: getClassificationAlgoNames FAILED")
-	else:
-		print("FUZZ: getClassificationAlgoNames PASSED" )
-
+		print("FUZZ: getClassificationAlgoNames() with parameter \"{}\" FAILED".format(i))
+		traceback.print_exc()
+		print("*"*150)
+		print("")
 
 if __name__ == '__main__':
 

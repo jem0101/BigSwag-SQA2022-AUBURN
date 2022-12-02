@@ -16,11 +16,16 @@ def checkAlgoNamesFuzz():
 			#print("FUZZ: Running on method checkAlgoNames() with parameter \"{}\"".format(i))
 			py_parser.checkAlgoNames(i)
 			#print("FUZZ: checkAlgoNames() with parameter \"{}\" PASSED".format(i))
+		print("FUZZ: checkAlgoNames() PASSED")
+		print("*"*150)
+		print("")
 	except Exception as exc:
 		print("FUZZ: checkAlgoNames() with parameter \"{}\" FAILED".format(i))
 		traceback.print_exc()
 		print("*"*150)
 		print("")
+
+	
 
 
 
@@ -32,6 +37,9 @@ def checkForLibraryImportFuzz():
 			#print("FUZZ: Running on method checkForLibraryImport() with parameter \"{}\"".format(i))
 			py_parser.checkForLibraryImport(i)
 			#print("FUZZ: checkForLibraryImport() with parameter \"{}\" PASSED".format(i))
+		print("FUZZ: checkForLibraryImport() PASSED")
+		print("*"*150)
+		print("")
 	except Exception as exc:
 		print("FUZZ: checkForLibraryImport() with parameter \"{}\" FAILED".format(i))
 		traceback.print_exc()
@@ -46,6 +54,9 @@ def getImportFuzz():
 			#print("FUZZ: Running on method getImport() with parameter \"{}\"".format(i))
 			py_parser.getImport(i)
 			#print("FUZZ: getImport() with parameter \"{}\" PASSED".format(i))
+		print("FUZZ: getImport() PASSED")
+		print("*"*150)
+		print("")
 	except Exception as exc:
 		print("FUZZ: getImport() with parameter \"{}\" FAILED".format(i))
 		traceback.print_exc()
@@ -61,6 +72,9 @@ def getFunctionDetailsForClaasesFuzz():
 			#print("FUZZ: Running on method getFunctionDetailsForClaases() with parameter \"{}\"".format(i))
 			py_parser.getFunctionDetailsForClaases(i)
 			#print("FUZZ: getFunctionDetailsForClaases() with parameter \"{}\" PASSED".format(i))
+		print("FUZZ: getFunctionDetailsForClaases() PASSED")
+		print("*"*150)
+		print("")
 	except Exception as exc:
 		print("FUZZ: getFunctionDetailsForClaases() with parameter \"{}\" FAILED".format(i))
 		traceback.print_exc()
@@ -76,6 +90,9 @@ def getClassificationAlgoNamesFuzz():
 			#print("FUZZ: Running on method getClassificationAlgoNames() with parameter \"{}\"".format(i))
 			py_parser.getClassificationAlgoNames(i)
 			#print("FUZZ: getClassificationAlgoNames() with parameter \"{}\" PASSED".format(i))
+		print("FUZZ: getClassificationAlgoNames() PASSED")
+		print("*"*150)
+		print("")
 	except Exception as exc:
 		print("FUZZ: getClassificationAlgoNames() with parameter \"{}\" FAILED".format(i))
 		traceback.print_exc()
@@ -83,7 +100,7 @@ def getClassificationAlgoNamesFuzz():
 		print("")
 
 if __name__ == '__main__':
-
+	print("*"*150)
 	checkAlgoNamesFuzz()
 	checkForLibraryImportFuzz()
 	getImportFuzz()

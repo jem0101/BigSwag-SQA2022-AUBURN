@@ -21,7 +21,7 @@ def checkAlgoNamesFuzz():
 		print("")
 	except Exception as exc:
 		print("FUZZ: checkAlgoNames() with parameter \"{}\" FAILED".format(i))
-		traceback.print_exc()
+		print(traceback.format_exc())
 		print("*"*150)
 		print("")
 
@@ -42,7 +42,7 @@ def checkForLibraryImportFuzz():
 		print("")
 	except Exception as exc:
 		print("FUZZ: checkForLibraryImport() with parameter \"{}\" FAILED".format(i))
-		traceback.print_exc()
+		print(traceback.format_exc())
 		print("*"*150)
 		print("")
 
@@ -59,7 +59,7 @@ def getImportFuzz():
 		print("")
 	except Exception as exc:
 		print("FUZZ: getImport() with parameter \"{}\" FAILED".format(i))
-		traceback.print_exc()
+		print(traceback.format_exc())
 		print("*"*150)
 		print("")
 
@@ -77,7 +77,7 @@ def getFunctionDetailsForClaasesFuzz():
 		print("")
 	except Exception as exc:
 		print("FUZZ: getFunctionDetailsForClaases() with parameter \"{}\" FAILED".format(i))
-		traceback.print_exc()
+		print(traceback.format_exc())
 		print("*"*150)
 		print("")
 
@@ -95,7 +95,7 @@ def getClassificationAlgoNamesFuzz():
 		print("")
 	except Exception as exc:
 		print("FUZZ: getClassificationAlgoNames() with parameter \"{}\" FAILED".format(i))
-		traceback.print_exc()
+		print(traceback.format_exc())
 		print("*"*150)
 		print("")
 

@@ -9,5 +9,5 @@ jobs:
       - uses: actions/setup-python@v4.2.0
       - run: pip install astdump
         shell: bash
-      - run: python fuzzing.py
+      - run: python fuzz.py
         shell: bash

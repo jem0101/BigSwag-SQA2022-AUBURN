@@ -15,14 +15,14 @@ def getImport(pyTree):
     import_list = []
     for stmt_ in pyTree.body:
         for node_ in ast.walk(stmt_):
-        	if isinstance(node_, ast.Import):
-        		for name in node_.names:
-        			import_list.append( (name.name.split('.')[0] ) )
-        	elif isinstance(node_, ast.ImportFrom):
-        		if(node_.module is not None):
-        			import_list.append( ( node_.module.split('.')[0] ) )
-        			for name in node_.names:
-        			    import_list.append( (name.name.split('.')[0] ) )
+            if isinstance(node_, ast.Import):
+                for name in node_.names:
+                    import_list.append( (name.name.split('.')[0] ) )
+            elif isinstance(node_, ast.ImportFrom):
+                if(node_.module is not None):
+                    import_list.append( ( node_.module.split('.')[0] ) )
+                    for name in node_.names:
+                        import_list.append( (name.name.split('.')[0] ) )
 #     print("import list: ", import_list)
     return import_list 
     
@@ -31,24 +31,24 @@ def getFunctionDetailsForClaases(pyTree):
     func_list_per_class = []
     for stmt_ in pyTree.body:
         for node_ in ast.walk(stmt_):
-        	if isinstance(node_, ast.ClassDef):
-        	    # print(node_.__dict__)
-        	    classDict = node_.__dict__ 
-        	    class_name, class_bases, class_body = classDict[constants.NAME_KW], classDict[constants.BASE_KW], classDict[constants.BODY_KW]
-        	    # print(class_bases)
-        	    for class_base in class_bases:
-        	        if( isinstance(class_base, ast.Attribute) ):  
-        	            arg_dic  = class_base.__dict__
-        	            arg_class = arg_dic[constants.VALUE_KW]
-        	            arg_name = arg_dic[constants.ATTRIB_KW] 
-        	            # print(arg_name)
-        	            if( isinstance(arg_class, ast.Name ) ):
-        	                # print(arg_class.id)
-        	                if ('unittest' in arg_class.id):
-        	                    # print("body     " , class_body)
-        	                    func_list_per_class = getFunctionAssignments(class_body)
-        	                    for each_list in func_list_per_class:
-        	                        func_list.append(each_list)      
+            if isinstance(node_, ast.ClassDef):
+                # print(node_.__dict__)
+                classDict = node_.__dict__ 
+                class_name, class_bases, class_body = classDict[constants.NAME_KW], classDict[constants.BASE_KW], classDict[constants.BODY_KW]
+                # print(class_bases)
+                for class_base in class_bases:
+                    if( isinstance(class_base, ast.Attribute) ):  
+                        arg_dic  = class_base.__dict__
+                        arg_class = arg_dic[constants.VALUE_KW]
+                        arg_name = arg_dic[constants.ATTRIB_KW] 
+                        # print(arg_name)
+                        if( isinstance(arg_class, ast.Name ) ):
+                            # print(arg_class.id)
+                            if ('unittest' in arg_class.id):
+                                # print("body     " , class_body)
+                                func_list_per_class = getFunctionAssignments(class_body)
+                                for each_list in func_list_per_class:
+                                    func_list.append(each_list)      
     return func_list
         
     
@@ -67,9 +67,9 @@ def getFunctionAssignments(class_body):
                         func_name = funcName.id
                         func_list.append(func_name)  
                     elif( isinstance( funcName, ast.Attribute ) ):  
-                    	func_name_dict  = funcName.__dict__
-                    	func_name = func_name_dict[constants.ATTRIB_KW] 
-                    	func_list.append(func_name )  
+                        func_name_dict  = funcName.__dict__
+                        func_name = func_name_dict[constants.ATTRIB_KW] 
+                        func_list.append(func_name )  
     return func_list
 
         

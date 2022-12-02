@@ -7,5 +7,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3.0.2
       - uses: actions/setup-python@v4.2.0
-      - run: python fuzz.py
+      - run: python fuzzing.py
         shell: bash

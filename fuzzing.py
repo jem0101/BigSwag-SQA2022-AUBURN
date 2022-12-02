@@ -1,5 +1,4 @@
 import traceback
-import pandas as pd
 import json
 import sys
 sys.path.insert(1, 'TestOrchestrator4ML-main/resources/Code/generation/identify_algo')
